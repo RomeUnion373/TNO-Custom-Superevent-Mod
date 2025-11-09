@@ -1,6 +1,6 @@
 spriteTypes = {
 	spriteType = {
 		name = "GFX_SE_EXAMPLE"
-		textureFile = "gfx/superevent_pictures/example.png"
+		textureFile = "gfx/CSE_superevent_pictures/example.png"
 	}
 }

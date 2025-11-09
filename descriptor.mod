@@ -8,4 +8,5 @@ tags={
 dependencies={
 	"The New Order: Last Days of Europe"
 }
+name="TNO Custom Superevent Mod"
 supported_version="1.16.*"
