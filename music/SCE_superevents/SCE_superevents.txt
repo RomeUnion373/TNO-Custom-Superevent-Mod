@@ -1,0 +1,8 @@
+music_station = "tno_superevents"
+
+music = {
+	song = "TNO_SE_EXAMPLE"
+	chance = {
+		modifier = { factor = 0 }
+	}
+}

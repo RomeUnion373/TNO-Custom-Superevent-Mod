@@ -1,0 +1,4 @@
+music = {
+	name = "TNO_SE_EXAMPLE"
+	file = "tno_se_example.ogg"
+}

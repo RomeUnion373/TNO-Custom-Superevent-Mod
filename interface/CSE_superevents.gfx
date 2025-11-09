@@ -1,0 +1,6 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_SE_EXAMPLE"
+		textureFile = "gfx/superevent_pictures/example.png"
+	}
+}
