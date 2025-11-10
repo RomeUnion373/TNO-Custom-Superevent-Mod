@@ -1,0 +1,7 @@
+CSE_decision_category = {
+	icon = GFX_decision_category_debug
+
+	visible = {
+		is_ai = no
+	}
+}

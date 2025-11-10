@@ -1,0 +1,18 @@
+CSE_decision_category = {
+	CSE_launch_SE_EXAMPLE = {
+		fire_only_once = no
+		cost = 0
+        
+		complete_effect = {
+            if = {
+                limit = { is_ai = no }
+                set_temp_variable = { TNO_temp_super_event = token:SE_EXAMPLE }
+                TNO_fire_super_event = yes
+            }
+		}
+		
+		ai_will_do = {
+			factor = 0
+		}
+	}
+}
