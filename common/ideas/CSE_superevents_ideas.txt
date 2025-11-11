@@ -1,5 +1,6 @@
 ideas = {
     hidden_ideas = {
-		SE_EXAMPLE = {}
+		  SE_EXAMPLE = {}
+		  SE_BRITISH_CIVIL_WAR = {}
     }
 }

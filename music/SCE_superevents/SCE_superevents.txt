@@ -6,3 +6,10 @@ music = {
 		modifier = { factor = 0 }
 	}
 }
+
+music = {
+	song = "TNO_SE_BRITISH_CIVIL_WAR"
+	chance = {
+		modifier = { factor = 0 }
+	}
+}

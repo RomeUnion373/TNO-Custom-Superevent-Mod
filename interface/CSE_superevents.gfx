@@ -3,4 +3,8 @@ spriteTypes = {
 		name = "GFX_SE_EXAMPLE"
 		textureFile = "gfx/CSE_superevent_pictures/example.png"
 	}
+	spriteType = {
+		name = "GFX_SE_BRITISH_CIVIL_WAR"
+		textureFile = "gfx/CSE_superevent_pictures/british_civil_war.png"
+	}
 }

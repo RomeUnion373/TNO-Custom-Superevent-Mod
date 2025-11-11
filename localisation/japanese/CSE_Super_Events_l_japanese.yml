@@ -1,5 +1,9 @@
 ﻿l_japanese:
   SE_EXAMPLE: "例"
-  SE_EXAMPLE_D: "神よ、私の最後の願いを叶い給え。ブラジルに平和と繁栄を。 - ドン・ペドロ2世"
+  SE_EXAMPLE_D: "神よ、私の最後の願いを叶い給え。ブラジルに平和と繁栄を。\n- ドン・ペドロ2世"
   SE_EXAMPLE_A: "いいね"
   TNO_SE_EXAMPLE: "例"
+  SE_BRITISH_CIVIL_WAR: "第二次大蜂起"
+  SE_BRITISH_CIVIL_WAR_D: "不幸に効く薬は希望より他にない。私には生きる希望があり、死ぬ覚悟もできている。\n- ウィリアム・シェイクスピア『尺には尺を』"
+  SE_BRITISH_CIVIL_WAR_A: "断じて、奴隷とはならじ"
+  TNO_SE_BRITISH_CIVIL_WAR: "第二次大蜂起"

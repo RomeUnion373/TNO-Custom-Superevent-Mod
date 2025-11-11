@@ -2,3 +2,7 @@ music = {
 	name = "TNO_SE_EXAMPLE"
 	file = "tno_se_example.ogg"
 }
+music = {
+	name = "TNO_SE_BRITISH_CIVIL_WAR"
+	file = "tno_se_british_civil_war.ogg"
+}
